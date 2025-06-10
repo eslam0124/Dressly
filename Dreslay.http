@@ -1,0 +1,6 @@
+@Dreslay_HostAddress = http://localhost:5274
+
+GET {{Dreslay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

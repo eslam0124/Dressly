@@ -1,0 +1,8 @@
+# Ignore VS, build and user-specific files
+.vs/
+*.user
+*.suo
+bin/
+obj/
+*.log
+publish/
